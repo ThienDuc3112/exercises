@@ -1,3 +1,5 @@
-# Scraped data from exercisesdb
+# Data from exercisesdb
 
-All the data from exercisedb, that's about it
+All 1324 exercises from exercisedb, that's about it
+
+Notes: The gif url is refreshed daily hence the gif folder
